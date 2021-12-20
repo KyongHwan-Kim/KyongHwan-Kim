@@ -1,4 +1,4 @@
-![제목을 입력해주세요_-001](https://user-images.githubusercontent.com/79563142/146735489-b259dfc0-c2bd-4bfb-901e-ce924c5f9564.jpg)
+![github intro](https://user-images.githubusercontent.com/79563142/146736761-91852006-c894-4398-b12d-7b2b03ff385a.png)
 
 ### Hi there 👋
 
