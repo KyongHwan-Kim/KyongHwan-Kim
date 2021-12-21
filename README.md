@@ -7,6 +7,7 @@
   <a href="https://www.youtube.com/channel/UCofJxbxI2hQELqQWGmKz2xA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=Youtube&logoColor=white"/></a>
   <a href="https://github.com/KyongHwan-Kim" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
   <a href="https://blog.naver.com/dolkys123" target="_blank"><img src="https://img.shields.io/badge/Naver_Blog-83B81A?style=flat-square&logo=Micro.blog&logoColor=white"/></a>
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="_blank"><img src="https://img.shields.io/badge/kyounghwan1989@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </div>
 <div align="center"><h1>😎Language Stack</h1></div>
 <div align="center">
