@@ -16,7 +16,7 @@
   <div align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/>
+<img src="https://img.shields.io/badge/Unity-181717?style=flat-square&logo=Unity&logoColor=white"/>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
 <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry Pi&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-3766AB?style=flat-square&logo=Python&logoColor=white"/>
