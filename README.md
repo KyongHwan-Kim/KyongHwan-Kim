@@ -72,4 +72,7 @@
 </div>
 
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyongHwan-Kim&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=KyongHwan-Kim&show_icons=true">
+
 
