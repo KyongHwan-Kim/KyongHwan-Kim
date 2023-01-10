@@ -12,7 +12,7 @@
 <div align="center"><h1>🔧 Tech Stack 🔧</h1></div>
 
 <ul style="list-style: none; display:flex;">
-  <li>
+  <li style="list-style: none;">
     <h2>🔧 Language 🔧</h2>
     <div align="center">
       <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
