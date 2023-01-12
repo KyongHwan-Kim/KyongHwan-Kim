@@ -6,7 +6,7 @@
 <a href="https://www.instagram.com/kkenghwan/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
   <a href="https://www.youtube.com/channel/UCofJxbxI2hQELqQWGmKz2xA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=Youtube&logoColor=white"/></a>
   <a href="https://github.com/KyongHwan-Kim" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-  <a href="https://blog.naver.com/dolkys123" target="_blank"><img src="https://img.shields.io/badge/Naver_Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+<!--   <a href="https://blog.naver.com/dolkys123" target="_blank"><img src="https://img.shields.io/badge/Naver_Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> -->
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="_blank"><img src="https://img.shields.io/badge/kyounghwan1989@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </div>
 <div align="center"><h1>🔧 Tech Stack 🔧</h1></div>
