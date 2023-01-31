@@ -12,7 +12,7 @@
 <h1>Tech Stack</h1>
 
 | 🌎 Language | Level | 🌈 Back End | Level | ⚡ Front End | Level | 📱 Mobile | Level |
-|:-----------:|------|:-----------:|------|:-----------:|------|
+|:-----------:|------|:-----------:|------|:-----------:|------|:-----------:|------|
 |<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>|*Available*| <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>|*Available*|<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>|*Available*|<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>|*Available*|
 |<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=CPlusPlus&logoColor=white"/>|*Available*|<img src="https://img.shields.io/badge/Node.js-39933?style=flat-square&logo=Node.js&logoColor=white"/>|*Available*|<img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=Vuetify&logoColor=white"/>|*Available*|  |  |
 |<img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=CSharp&logoColor=white"/>|*Available*|<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>|Low Available|<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>|Low Available|  |  |
@@ -25,7 +25,7 @@
 |<img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white"/>|*Available*|  |  |  |  |  |  |
 
 | 💾 DataBase | Level | 🔨 CI/CD | Level | 📀 Big Data Stack | Level | 🎨 Other Stack | Level |
-|:-----------:|------|:-----------:|------|:-----------:|------|
+|:-----------:|------|:-----------:|------|:-----------:|------|:-----------:|------|
 |<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>|*Available*|<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>|*Available*| <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=ApacheKafka&logoColor=white"/> | *Available* |  |  |
 |<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>|*Available*|  |  | <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=ApacheHadoop&logoColor=white"/> | *Available* |  |  |
 |  |  |  |  | <img src="https://img.shields.io/badge/Hive-FDEE21?style=flat-square&logo=ApacheHive&logoColor=white"/> | *Available* |  |  |
@@ -47,5 +47,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=KyongHwan-Kim&show_icons=true"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyongHwan-Kim&layout=compact">
   </div>
-</div>
+
 
