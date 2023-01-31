@@ -16,12 +16,12 @@
 &nbsp; &nbsp; <b>└ </b> 🌎 Language 
 </br>
 <div> &nbsp; &nbsp; &nbsp; &nbsp; └ <img src="https://img.shields.io/badge/C-3766AB?style=flat-square&logo=Python&logoColor=white"/> ─ Available </div>
-</br>
 <div> &nbsp; &nbsp; &nbsp; &nbsp; <b>└ </b> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> ─ Available </div>
-</br>
 <div> &nbsp; &nbsp; &nbsp; &nbsp; <b>└ </b><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> ─ Available </div>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyongHwan-Kim&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=KyongHwan-Kim&show_icons=true">
+<div> 
+  <img src="https://github-readme-stats.vercel.app/api?username=KyongHwan-Kim&show_icons=true"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyongHwan-Kim&layout=compact">
+</div>
 
