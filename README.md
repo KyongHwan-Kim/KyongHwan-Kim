@@ -15,9 +15,9 @@
 </br>
 &nbsp; &nbsp; <b>└ </b> 🌎 Language 
 </br>
-<div> &nbsp; &nbsp; &nbsp; &nbsp; └ <img src="https://img.shields.io/badge/C-3766AB?style=flat-square&logo=Python&logoColor=white"/> ─ Available </div>
+<div> &nbsp; &nbsp; &nbsp; &nbsp; └ <img src="https://img.shields.io/badge/C-3766AB?style=flat-square&logo=C&logoColor=white"/> ─ Available </div>
 <div> &nbsp; &nbsp; &nbsp; &nbsp; └ <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> ─ Available </div>
-<div> &nbsp; &nbsp; &nbsp; &nbsp; └ <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"/> ─ Available </div>
+<div> &nbsp; &nbsp; &nbsp; &nbsp; └ <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/> ─ Available </div>
 
 
 <div> 
