@@ -15,12 +15,20 @@
 </br>
 &nbsp; &nbsp; <b>└ </b> 🌎 Language 
 </br>
-<div> &nbsp; &nbsp; &nbsp; &nbsp; └ <img src="https://img.shields.io/badge/C-3766AB?style=flat-square&logo=C&logoColor=white"/> ─ Available </div>
-<div> &nbsp; &nbsp; &nbsp; &nbsp; └ <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> ─ Available </div>
-<div> &nbsp; &nbsp; &nbsp; &nbsp; └ <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/> ─ Available </div>
+<div> &nbsp; &nbsp; &nbsp; &nbsp; └ <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> - <b>Available</b> </div>
+<div> &nbsp; &nbsp; &nbsp; &nbsp; └ <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> - <b>Available</b> </div>
+<div> &nbsp; &nbsp; &nbsp; &nbsp; └ <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=CSharp&logoColor=white"/> - <b>Available</b> </div>
+<div> &nbsp; &nbsp; &nbsp; &nbsp; └ <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> - <b>Available</b> </div>
+<div> &nbsp; &nbsp; &nbsp; &nbsp; └ <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/> - <b>Available</b> </div>
+<div> &nbsp; &nbsp; &nbsp; &nbsp; └ <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> - <b>Available</b> </div>
 
-
+<div> &nbsp; &nbsp; &nbsp; &nbsp; └ <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> - <b>Available</b> </div>
+<div> &nbsp; &nbsp; &nbsp; &nbsp; └ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> - <b>Available</b> </div>
+<div> &nbsp; &nbsp; &nbsp; &nbsp; └ <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/> - <b>Available</b> </div>
+<div> &nbsp; &nbsp; &nbsp; &nbsp; └ <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white"/> - <b>Available</b> </div>
 <div> 
+  
+  
   <img src="https://github-readme-stats.vercel.app/api?username=KyongHwan-Kim&show_icons=true"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyongHwan-Kim&layout=compact">
 </div>
