@@ -8,6 +8,7 @@
   <a href="https://github.com/KyongHwan-Kim" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <!--   <a href="https://blog.naver.com/dolkys123" target="_blank"><img src="https://img.shields.io/badge/Naver_Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> -->
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="_blank"><img src="https://img.shields.io/badge/kyounghwan1989@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/kyounghwan-kim-050a43235" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 </div>
 <h1>Tech Stack</h1>
 
@@ -41,7 +42,9 @@
 | <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/> | *Available* |
 | <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/> | *Available* |
 | <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> | *Available* |
+<h1>Project</h1>
 
+<h1>Awards</h1>
   
   <div>
   <img src="https://github-readme-stats.vercel.app/api?username=KyongHwan-Kim&show_icons=true"> 
